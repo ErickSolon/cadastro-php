@@ -1,0 +1,12 @@
+body {
+    background-color: aliceblue;
+}
+
+.border-div-form {
+    position: absolute;
+    border-radius: 50px;
+    width: 500px;
+    height: 250px;
+    right: 725px;
+    bottom: 365px;
+}
